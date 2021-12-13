@@ -6,25 +6,25 @@ using UnityEngine;
 
 public class FPSController : MonoBehaviour
 {
-    [Header("Walking Speed")]
+    [Tooltip("Walking Speed")]
     public float walkingSpeed = 7.5f;
 
-    [Header("Running Speed")]
+    [Tooltip("Running Speed")]
     public float runningSpeed = 11.5f;
 
-    [Header("Jump Speed")]
+    [Tooltip("Jump Speed")]
     public float jumpSpeed = 8.0f;
 
-    [Header("Gravity of the Player")]
+    [Tooltip("Gravity of the Player")]
     public float gravity = 20.0f;
 
-    [Header("The camera you will see from")]
+    [Tooltip("The camera you will see from")]
     public Camera playerCamera;
 
-    [Header("Sensibility")]
+    [Tooltip("Sensibility")]
     public float lookSpeed = 2.0f;
 
-    [Header("Limit of Height Look")]
+    [Tooltip("Limit of Height Look")]
     public float lookXLimit = 45.0f;
 
   
