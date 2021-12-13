@@ -1,16 +1,16 @@
 # UNITY LIBRARY by SEGARIO
 
-##Sous-titre
+## Sous-titre
 
 text
 
--liste
--liste
--liste
+- liste
+- liste
+- liste
 
-1.liste
-2.liste
-3.liste
+1. liste
+2. liste
+3. liste
 
 *italique* **gras**   souligné
 
