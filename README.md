@@ -1,31 +1,28 @@
 # UNITY LIBRARY by SEGARIO
 
-## Sous-titre
+## WELCOME
 
-text
-
-- liste
-- liste
-- liste
-
-1. liste
-2. liste
-3. liste
-
-*italique* **gras**   souligné
-
-text
-
-`bout de code`
-
-
-Barre Horizontale:
 ---
 
-[Pour un lien](http://google.com)
-![Pour afficher une image](./Documentation~/xp.jpg)
+WELCOME TO THE UNITY LIBRARY BY SEGARIO
+
+---
+
+Here, we have plenty of features you can use. Each feature is contained in a Folder with a name describing the feature.
+
+Each Features are organized by groups in folders. For example, every Player Controllers are contained in the Character Controllers Folder.
+---
+
+In each Folder, you will find:
+
+- 0ne or multiple C# Scripts, depending on the feature.
+- One or multiple Prefabs, depending on the feature.
+- A Demo Scene, to see what the feature looks like.
+- A ReadMe file, that explains what the feature, how it works, and how to use it.
+
+---
 
 
-```cs
-public class MonoBehaviour { }
-```
+
+
+
