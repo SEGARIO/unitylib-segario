@@ -2,8 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class AutoRotate : MonoBehaviour
 {
+  
     //Rotation By Axis
     [Tooltip("Rotation Speed by axis")]
     public Vector3 rotateSpeed = new Vector3(0, 1, 0);
@@ -20,6 +22,8 @@ public class AutoRotate : MonoBehaviour
         {
             transform.Rotate(rotateSpeed * Time.deltaTime);
         }
+
+        
     }
 
     void FixedUpdate()
